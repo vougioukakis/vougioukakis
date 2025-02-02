@@ -1,8 +1,4 @@
-## Hi there! 👋  
-
-I'm a **Mathematics Graduate** diving into the world of **Software Development**.  
-Currently learning **Full-Stack Development** and building cool things along the way.  
-
+## Hi there!
 ### 🔧 Tech & Tools  
 - **Languages:** Python, JavaScript, PHP
 - **Stack:** React, Node.js, Express, PostgreSQL  
