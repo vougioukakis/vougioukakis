@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi there! Welcome to the Thanos world
+## Hi there, welcome!
 
 ### 🔧 Tech & Tools 🔧
 **Languages:** Python, JavaScript, PHP
