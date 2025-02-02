@@ -3,8 +3,8 @@
 ## Hi there! 👋
 
 ### 🔧 Tech & Tools
-- **Languages:** Python, JavaScript, PHP
-- **Stack:** React, Node.js, Express, PostgreSQL
+**Languages:** Python, JavaScript, PHP
+**Stack:** React, Node.js, Express, PostgreSQL
 
 <br>
 
