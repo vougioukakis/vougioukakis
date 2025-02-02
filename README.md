@@ -4,6 +4,7 @@
 
 ### 🔧 Tech & Tools
 **Languages:** Python, JavaScript, PHP
+
 **Stack:** React, Node.js, Express, PostgreSQL
 
 <br>
