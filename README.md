@@ -1,8 +1,8 @@
 <div align="center">
 
-## Hi there! 👋
+## Hi there! Welcome to the Thanos world
 
-### 🔧 Tech & Tools
+### 🔧 Tech & Tools 🔧
 **Languages:** Python, JavaScript, PHP
 
 **Stack:** React, Node.js, Express, PostgreSQL
