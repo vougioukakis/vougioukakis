@@ -5,5 +5,5 @@
 
 ### 📊 GitHub Stats  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)  
-<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=joshxfi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vougioukakis&show_icons=true&theme=dark)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vougioukakis)](https://github.com/anuraghazra/github-readme-stats)
