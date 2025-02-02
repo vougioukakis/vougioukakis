@@ -2,10 +2,10 @@
 
 ## Hi there, welcome!
 
-### 🔧 Tech & Tools 🔧
+### Tech & Tools
 **Languages:** Python, JavaScript, PHP
 
-**Stack:** React, Node.js, Express, PostgreSQL
+**Stack:** React, NodeJS, Express, PostgreSQL
 
 <br>
 
