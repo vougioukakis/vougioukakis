@@ -3,9 +3,11 @@
 ## Hi there, welcome!
 
 ### Tech & Tools
-**Languages:** Python, JavaScript, PHP
+**Languages:** Python, JavaScript, TypeScript, PHP
 
-**Stack:** React, NodeJS, Express, PostgreSQL
+**Stack:** NextJS, React, PostgreSQL
+
+**Some Favourite Tools and Libraries:** Zod, ShadCN UI, Hono
 
 <br>
 
